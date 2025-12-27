@@ -121,11 +121,9 @@ if solution:
 else:
     print("No solution found.")
 ```
-
 ## output
 
 ![379384647-a35e73a2-1f14-492a-b04d-4764aabfc740](https://github.com/user-attachments/assets/60bdf6c2-ba5f-4fa1-a5a4-b7ef1fde8052)
-
 
 <hr>
 <h2>Result:</h2>
